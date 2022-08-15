@@ -88,7 +88,7 @@
 <br>
 
 <p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
+  Thanks for Visiting!😇
 </p>
 
 <!---->
