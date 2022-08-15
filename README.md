@@ -37,8 +37,8 @@
   <summary>GitHub Trophies 🏆</summary>
   <br>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=suneelkm&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
+  <a href="https://github.com/suneelkm/suneelkm" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=suneelkm&theme=gruvbox&row=1&column=3&margin-w=15&margin-h=15"/>
   </a>
 </p>
 </details>
