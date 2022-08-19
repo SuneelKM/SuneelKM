@@ -64,7 +64,6 @@
 ### 👨🏻‍💻 &nbsp; I'm currently...
 
   - Improving my Android skills.
-  - Learning to write Test cases.
   - Learning Android's Jetpack Compose.
   - Adding databases to my skill set.
   - Aspiring to learn about the Cloud computing.
