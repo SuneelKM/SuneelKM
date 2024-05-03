@@ -9,7 +9,7 @@
   <samp>
     I'm Suneel Maurya <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
     <br><br>
-    I work as an Android :iphone: and Web :globe_with_meridians: developer!
+    I work as an Java and Web :globe_with_meridians: developer!
     <br><br>
     I believe in a world where Chocolate Milkshakes can solve any, and all problems :grin:
     <br><br>
